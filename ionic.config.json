@@ -1,0 +1,7 @@
+{
+  "name": "ZLeague",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
